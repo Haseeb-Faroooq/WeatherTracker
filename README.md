@@ -9,3 +9,6 @@ Real-Time Weather Data: Get up-to-date information for any city.
 Dynamic UI: Clean design with weather icons and color-coded temperature displays.
 
 Responsive Layout: Works seamlessly on desktops, tablets, and mobile devices.
+
+It will have tools such as java script, html etc
+
